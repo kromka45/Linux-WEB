@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f967af3b-7bed-4f43-bd6c-2e790e2345e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.pg_service.cof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SKRYPT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mods/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mods/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_nowe/message_a7ICSuP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mody_nowe/message_a7ICSuP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_stare/trawa.fun.csr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mody_stare/trawa.fun.csr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_stare/trawa_can502j.fun.csr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mody_stare/trawa_can502j.fun.csr.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +32,9 @@
   <component name="HttpClientEndpointsTabState">
     <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;ce23aa9b79aa378ba4069d8de59f09e645b89ae8&quot; value=&quot;###&amp;#10;GET http://localhost:8000/mods/api/mods&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
   </component>
-  <component name="HttpClientOnboardingState"><![CDATA[{
-  "isOnboardingCommentShown": true
-}]]></component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
