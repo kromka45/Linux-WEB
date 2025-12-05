@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f967af3b-7bed-4f43-bd6c-2e790e2345e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.pg_service.cof" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mody_nowe/message_a7ICSuP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mody_nowe/message_a7ICSuP.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mody_stare/trawa.fun.csr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mody_stare/trawa.fun.csr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mody_stare/trawa_can502j.fun.csr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mody_stare/trawa_can502j.fun.csr.txt" afterDir="false" />
+    <list default="true" id="f967af3b-7bed-4f43-bd6c-2e790e2345e2" name="Changes" comment="0.0.1&#10;ALFA rework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pg_service.cof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_nowe/message.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_nowe/message_a7ICSuP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_stare/trawa.fun.csr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mody_stare/trawa_can502j.fun.csr.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kromka45"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kromka45/Linux-WEB.git",
+    "accountId": "773881bb-479a-4252-b609-319772c23018"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Strona/settings.py" root0="SKIP_INSPECTION" />
   </component>
@@ -112,9 +126,22 @@
       <workItem from="1764928000077" duration="8034000" />
       <workItem from="1764950387621" duration="2614000" />
     </task>
+    <task id="LOCAL-00001" summary="0.0.1&#10;ALFA rework">
+      <option name="closed" value="true" />
+      <created>1764954552679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764954552679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.0.1&#10;ALFA rework" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.1&#10;ALFA rework" />
   </component>
 </project>
