@@ -1,5 +1,0 @@
-[my_service]
-host=localhost
-user=USER
-dbname=
-port=5432
