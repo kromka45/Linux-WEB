@@ -1,6 +1,6 @@
 import json
 from os import write
-
+from .modsdownload import data_list
 from django.db import models
 import os
 
@@ -12,6 +12,7 @@ class Mody(models.Model):
     mody_date = models.DateTimeField(auto_now=True)
     mody_stare = models.FileField(upload_to="mody_stare")
     mody_nowe = models.FileField(upload_to="mody_nowe")
+
 
 
 

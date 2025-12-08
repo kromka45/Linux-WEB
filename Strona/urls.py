@@ -24,7 +24,7 @@ from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("", include('mods.urls')),
+    path("mods/", include('mods.urls')),
 ]
 
 if settings.DEBUG:
